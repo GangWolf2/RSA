@@ -1,5 +1,5 @@
-import Scanner from java.util.Scanner;
-import Math from java.lang.Math;
+import java.util.Scanner;
+import java.lang.Math;
 
 public class RSA{
 
